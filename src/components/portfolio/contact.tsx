@@ -276,7 +276,7 @@ export function Contact() {
         {/* Footer */}
         <div className="mt-12 flex flex-col gap-4 border-t border-black/20 pt-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-xs font-semibold text-black/60">
-            © {new Date().getFullYear()} JUBAIL. Built with passion.
+            © 2026 JUBAIL. Built with passion.
           </p>
 
           <a
